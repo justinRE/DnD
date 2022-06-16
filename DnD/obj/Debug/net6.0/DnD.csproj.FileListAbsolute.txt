@@ -1,0 +1,15 @@
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/DnD.csproj.AssemblyReference.cache
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/DnD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/DnD.AssemblyInfoInputs.cache
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/DnD.AssemblyInfo.cs
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/DnD.csproj.CoreCompileInputs.cache
+/Users/justinreisz/Projects/DnD/DnD/bin/Debug/net6.0/DnD
+/Users/justinreisz/Projects/DnD/DnD/bin/Debug/net6.0/DnD.deps.json
+/Users/justinreisz/Projects/DnD/DnD/bin/Debug/net6.0/DnD.runtimeconfig.json
+/Users/justinreisz/Projects/DnD/DnD/bin/Debug/net6.0/DnD.dll
+/Users/justinreisz/Projects/DnD/DnD/bin/Debug/net6.0/DnD.pdb
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/DnD.dll
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/refint/DnD.dll
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/DnD.pdb
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/DnD.genruntimeconfig.cache
+/Users/justinreisz/Projects/DnD/DnD/obj/Debug/net6.0/ref/DnD.dll
